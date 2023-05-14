@@ -1,0 +1,31 @@
+.create_post {
+    text-align: center;
+}
+
+.create_post textarea {
+    resize: none;
+    width: 80%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 36px;
+    margin-bottom: 10px;
+    background-color: #D6E4EA;
+    border-color: #42728A;
+    border-radius: 25px;
+    padding: 8px;
+}
+
+.create_post input {
+    resize: none;
+    width: 80%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 36px;
+    margin-bottom: 10px;
+    background-color: #D6E4EA;
+    border-color: #42728A;
+    border-radius: 25px;
+    padding: 8px;
+}
+
+.create_post button {
+    width: 70%;
+}

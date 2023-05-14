@@ -1,0 +1,20 @@
+.content {
+    text-align: center;
+    margin: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.content h1 {
+    font-size: 46px;
+}
+
+.content h2 {
+    font-size: 30px;
+    margin-top: -10px;
+}
+
+.content h3 {
+    margin: 30px 400px;
+    text-align: center;
+    line-height: 2;
+}

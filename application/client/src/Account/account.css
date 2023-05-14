@@ -1,0 +1,22 @@
+.login {
+    text-align: center;
+}
+
+.login input {
+    resize: none;
+    width: 20%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin: 1%;
+    padding: 1%;
+}
+
+.login h2 {
+    font-size: 20px;
+    padding: 0;
+    margin: 0;
+}
+
+.register {
+    text-align: center;
+}
